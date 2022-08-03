@@ -6,7 +6,7 @@ public class Doctor {
     String email;
 
     Doctor(){
-        System.out.println("Construyendo el Objeto Doctor");
+        System.out.println("Ingresando al sistema");
 
     }
 
